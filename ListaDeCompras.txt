@@ -1,0 +1,9 @@
+Hacer una lista de compras
+
+1- La lista se guardará en un arreglo 
+
+2- Deberá disponer de las siguientes acciones:
+agregar un elemento (si no está repetido)
+eliminar un elemento
+modificar un elemento
+ver la lista
